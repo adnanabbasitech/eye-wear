@@ -366,7 +366,18 @@ const copy = {
 };
 
 const gallery = [
-["photo-1511499767150-a48a237f0083", "Aurelia 01"], ["photo-1508296695146-257a814070b4", "Riyadh Noir"], ["photo-1572635196237-14b3f281503f", "Sahara Gold"], ["photo-1574258495973-f010dfbb5371", "Mira 02"], ["photo-1758552322632-ba288778c770", "Dune"], ["photo-1743641377472-587cce2c34b9", "Lina 04"], ["photo-1574065664165-b5cdf34ed695", "Atlas"], ["photo-1619089662138-d884da64e589", "Noura"], ["photo-1596940459110-72ac5c24dd3c", "Jade 05"], ["photo-1565376839786-202c55c87faa", "Layan"], ["photo-1578749183382-762c9d79fe61", "Sultan"], ["photo-1612327343778-508fb0196f73", "Hala"],
+  ["photo-1497366811353-6870744d04b2", "The House"],
+  ["photo-1441986300917-64674bd600d8", "Riyadh Light"],
+  ["photo-1497366754035-f200968a6e72", "Quiet Details"],
+  ["photo-1494438639946-1ebd1d20bf85", "Material Study"],
+  ["photo-1698222850822-8b08738a0996", "The Edit"],
+  ["photo-1511499767150-a48a237f0083", "Modern Form"],
+  ["photo-1743641377472-587cce2c34b9", "Lina 04"], 
+  ["photo-1574065664165-b5cdf34ed695", "Atlas"],
+  ["photo-1619089662138-d884da64e589", "Noura"],
+  ["photo-1596940459110-72ac5c24dd3c", "Jade"], 
+  ["photo-1565376839786-202c55c87faa", "Layan"], 
+  ["photo-1578749183382-762c9d79fe61", "Sultan"],  
 ];
 
 function App() {
